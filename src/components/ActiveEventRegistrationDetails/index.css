@@ -1,0 +1,67 @@
+/* Write your CSS here */
+.initial-heading {
+  font-family: 'Roboto';
+  color: #64748b;
+  font-weight: 500;
+  font-size: 20px;
+  padding: 20px;
+}
+.registered-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.registered-img {
+  width: 15vw;
+}
+.registered-heading {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 22px;
+  color: #323f4b;
+}
+.yet-to-register-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.yet-to-register-img {
+  height: 60vh;
+  width: 30vw;
+}
+.description {
+  color: #64748b;
+  font-family: 'Roboto';
+  padding: 35px;
+  text-align: center;
+  font-weight: 500;
+}
+.closed-view {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.para {
+  color: #323f4b;
+  font-family: 'Roboto';
+
+  margin-bottom: 0px;
+  font-size: 20px;
+}
+.closed-img {
+  width: 20vw;
+}
+.btn {
+  color: #ffffff;
+  font-family: 'Roboto';
+  background-color: #0967d2;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  width: 15vw;
+  padding: 10px;
+}

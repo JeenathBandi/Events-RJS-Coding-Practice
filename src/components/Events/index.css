@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.events-row-container {
+  display: flex;
+}
+.events-first-container {
+  width: 50vw;
+  background-color: #3a4b63;
+  padding: 30px;
+}
+.events-heading {
+  color: #f8fafc;
+  font-family: 'Roboto';
+  font-weight: 500;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+.event-items-row-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.events-second-container {
+  display: flex;
+  justify-content: center;
+  width: 50vw;
+}
